@@ -1,0 +1,6 @@
+Bug report
+Title: Can not add item to cart
+Priority: Major
+Steps to reproduce: TBD
+Expected result: Item is added to cart
+Actual result: Button "Add to cart" does not work
