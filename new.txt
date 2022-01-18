@@ -1,0 +1,6 @@
+name Evelin
+lastName Chekulaieva
+patronymic Albertovna
+age 29
+petCount 0
+desiredSalary 5000
