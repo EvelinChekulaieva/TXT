@@ -1,0 +1,5 @@
+favouriteMovie Basic Instinct
+favouriteTvSeries Squid Game
+favouriteFood Syrniki
+favourireSeason Fall
+country Dubai
